@@ -6,12 +6,12 @@
 
 version: 2
 updates:
-  - package-ecosystem: "cargo"
+  - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: weekly
 
-  - package-ecosystem: "pip"
+  - package-ecosystem: "cargo"
     directory: "/"
     schedule:
       interval: weekly
