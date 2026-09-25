@@ -63,10 +63,10 @@ coverage.xml
 docs/_build/
 
 # PyCharm
-# .idea/
+.idea/
 
 # VSCode
-# .vscode/
+.vscode/
 
 # Pyenv
 .python-version
